@@ -1,4 +1,6 @@
 opus_books_weights/
+*.pt
 venv/
 runs/
 __pycache__/
+*.py[cod]
